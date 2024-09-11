@@ -1,7 +1,7 @@
-<h1 align="center"> NLW-POCKET-JS </h1>
+<h1 align="center"> NLW-POCKET-JAVASCRIPT </h1>
 
 <p align="center">
-Evento gratuito, promovido pela Rocketseat para ensino das tecnologias Javascript e NodeJS. <br/>
+Evento gratuito, promovido pela Rocketseat, onde foi desenvolvido um app de metas utilizando Javascript e NodeJS. <br/>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -16,22 +16,21 @@ Evento gratuito, promovido pela Rocketseat para ensino das tecnologias Javascrip
 <br>
 
 <p align="center">
-  <img alt="nlw-pocket-javascript" src=".github/preview.jpg" width="100%">
+  <img alt="nlw-pocket-javascript" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- JavaScript
+- Javascript
 - NodeJS
 
 ## 💻 Projeto
 
-O NLW-POCKET-JAVASCRIPT é um app de cadastro de metas, listagem (metas realizadas e abertas) e com opção de deletar.
-Este projeto roda com NodeJS via terminal.
+O NLW-POCKET-JAVASCRIPT é um app de cadastro de metas, listagem (metas realizadas e abertas) e com opção de deletar. Este projeto é executado com NodeJS via terminal.
 
-- [Acesse o projeto finalizado, online](https://diegoespelho.github.io/discover-rocketseat)
+- [Acesse o repositório no Github](https://github.com/diegoespelho/nlw-pocket-js)
 
 ## 📝 Licença
 
