@@ -18,7 +18,7 @@ Evento gratuito, promovido pela Rocketseat, onde foi desenvolvido um app de meta
 <br>
 
 <p align="center">
-  <img alt="nlw-pocket-javascript" src=".github/preview.jpg" width="100%">
+  <img alt="nlw-pocket-javascript" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O NLW-POCKET-JAVASCRIPT é um app de cadastro de metas, listagem (metas realizadas e abertas) e com opção de deletar. Este projeto é executado com NodeJS via terminal.
+Neste NLW-POCKET desenvolvemos um app de cadastro de metas, listagem (metas realizadas e abertas) e com opção de deletar. Este projeto é executado com NodeJS via terminal.
 
 - [Acesse o repositório no Github](https://github.com/diegoespelho/nlw-pocket-js)
 
