@@ -20,9 +20,9 @@ Evento gratuito, promovido pela Rocketseat, onde foi desenvolvido um app de meta
   <img alt="nlw-pocket-javascript" src=".github/preview.png" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Tecnologias e Ferramentas
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto foi desenvolvido com as seguintes tecnologias e ferramentas:
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,git,github)](https://skillicons.dev)
 
