@@ -1,4 +1,4 @@
-<h1 align="center">NLW-POCKET-JAVASCRIPT</h1>
+<h1 align="center">NLW-POCKET-JS</h1>
 
 <p align="center">
 Evento gratuito, promovido pela Rocketseat, onde foi desenvolvido um app de metas utilizando Javascript e NodeJS.
